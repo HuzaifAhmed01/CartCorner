@@ -1,0 +1,12 @@
+.flex-model{
+    display: flex;
+    flex-direction: column;
+
+}
+body{
+    background-color: #dad9d95e;
+}
+.discount{
+    padding:2px 5px ;
+    margin-top: -9px;
+}
